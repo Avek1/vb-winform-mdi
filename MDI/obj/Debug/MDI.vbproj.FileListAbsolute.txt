@@ -1,0 +1,12 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\bin\Debug\MDI.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\bin\Debug\MDI.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\bin\Debug\MDI.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\bin\Debug\MDI.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.ChildForm.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.MainForm.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\MDI\MDI\obj\Debug\MDI.pdb
